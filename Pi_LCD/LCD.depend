@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1452284431 source:/home/pi/Bastien/Prog/LCD2/bcm2835.c
+	<stdlib.h>
+	<stdio.h>
+	<errno.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	"bcm2835.h"
+
+1452931301 /home/pi/Bastien/Prog/LCD2/bcm2835.h
+	<stdint.h>
+
+1460312663 source:/home/pi/Bastien/Prog/LCD2/main.c
+	<bcm2835.h>
+	<stdio.h>
+	<unistd.h>
+	"st7735.h"
+	"LCD.h"
+
+1459517271 /home/pi/Bastien/Prog/LCD2/st7735.h
+
+1459518211 source:/home/pi/Bastien/Prog/LCD2/st7735.c
+	<bcm2835.h>
+	<stdio.h>
+	<unistd.h>
+	"st7735.h"
+
+1460216837 source:/home/pi/Bastien/Prog/LCD2/LCD.c
+	<bcm2835.h>
+	<stdio.h>
+	<unistd.h>
+	"st7735.h"
+
+1459541391 /home/pi/Bastien/Prog/LCD2/LCD.h
+
+1459527554 source:/home/pi/Bastien/Prog/LCD2/tails.c
+
+1459539476 source:/home/pi/Bastien/Prog/LCD2/sega.c
+
+1229080960 source:/home/pi/Bastien/Prog/LCD2/gimp_bmp.c
+	<stdio.h>
+	<stdlib.h>
+	"gimp_bmp.h"
+
+1203508302 /home/pi/Bastien/Prog/LCD2/gimp_bmp.h
+
