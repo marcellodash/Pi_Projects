@@ -12,6 +12,9 @@
 
 //Pinout DFPlayer > Audio OUT
 
+//Pin4 DAC_R > Audio Right
+//Pin5 DAC_L > Audio Left
+
 #include <stdio.h>
 
 #include <wiringPi.h>     // Special GPIO Library
