@@ -8,3 +8,5 @@ Pi_SD : Some exemple for Read a micro SD Card from a shield ( based on GPIO bcm2
 DF_Player : Simple C code for drive cheap Mini MP3 Player Audio : DFPlay ( based on WiringPi)
 
 BB_DF_Player : GPIO Direct access with Uart bit banging for drive Mini MP3 Player Audio
+
+BB_SD_Reader : GPIO Direct access for generating SPI in bitbang mode,and dump a file (based only on PetitFatFS)
