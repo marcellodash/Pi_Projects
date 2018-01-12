@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1515776432 source:/home/pi/Prog/WonderSwan/main.c
+	<stdio.h>
+	<stdlib.h>
+	<wiringPi.h>
+	"pinout.h"
+	"wonderswan.h"
+	"Swan_chksm.h"
+
+1515259507 /home/pi/Prog/WonderSwan/pinout.h
+
+1515257056 /home/pi/Prog/WonderSwan/wonderswan.h
+
+1515776880 source:/home/pi/Prog/WonderSwan/wonderswan.c
+	<stdio.h>
+	<stdlib.h>
+	<wiringPi.h>
+	"pinout.h"
+
+1515319797 /home/pi/Prog/WonderSwan/Swan_chksm.h
+

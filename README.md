@@ -1,4 +1,4 @@
-# Raspberry_Projects
+﻿# Raspberry_Projects
 Some of my personnal projects for Raspberry Pi
 
 Pi_LCD : C library for control SPI 1.8" LCD Screen ( based on GPIO bcm2835)
@@ -10,3 +10,5 @@ DF_Player : Simple C code for drive cheap Mini MP3 Player Audio : DFPlay ( based
 BB_DF_Player : GPIO Direct access with Uart bit banging for drive Mini MP3 Player Audio
 
 BB_SD_Reader : GPIO Direct access for generating SPI in bitbang mode,and dump a file (based only on PetitFatFS)
+
+WS_Dumper : WonderSwan ROM Dumper : Actually Support ROM and Save dump only for Bandai 2001
